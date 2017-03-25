@@ -8,12 +8,12 @@
 
 ![Alt text](https://github.com/fjnuzyl/LayoutTutorial/blob/master/images/002.jpg)
 
-选择线性布局跳转到相对布局实验
+选择相对布局跳转到相对布局实验
 截图如下
 
 ![Alt text](https://github.com/fjnuzyl/LayoutTutorial/blob/master/images/003.jpg)
 
-选择线性布局跳转到表格布局实验
+选择表格布局跳转到表格布局实验
 截图如下
 
 ![Alt text](https://github.com/fjnuzyl/LayoutTutorial/blob/master/images/004.jpg)
